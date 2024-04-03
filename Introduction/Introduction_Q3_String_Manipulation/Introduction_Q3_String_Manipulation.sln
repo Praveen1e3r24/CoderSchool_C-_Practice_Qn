@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Introduction_Q3_String_Manipulation", "Introduction_Q3_String_Manipulation\Introduction_Q3_String_Manipulation.csproj", "{69F1F75A-BC69-4A0E-93D8-98ADB55A10DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F1F75A-BC69-4A0E-93D8-98ADB55A10DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F1F75A-BC69-4A0E-93D8-98ADB55A10DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F1F75A-BC69-4A0E-93D8-98ADB55A10DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F1F75A-BC69-4A0E-93D8-98ADB55A10DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC0FA28-FE4F-48C0-9F9E-6CC3D793F01C}
+	EndGlobalSection
+EndGlobal
