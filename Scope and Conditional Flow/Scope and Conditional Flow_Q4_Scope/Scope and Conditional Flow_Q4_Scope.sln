@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34714.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scope and Conditional Flow_Q4_Scope", "Scope and Conditional Flow_Q4_Scope\Scope and Conditional Flow_Q4_Scope.csproj", "{BC9F2560-B09F-4E33-BAEC-1A3EB9B6CC9E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scope and Conditional Flow_Q4_Scope", "Scope and Conditional Flow_Q4_Scope\Scope and Conditional Flow_Q4_Scope.csproj", "{CC03BBF7-110A-4E4F-B152-39E3906F2AD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BC9F2560-B09F-4E33-BAEC-1A3EB9B6CC9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC9F2560-B09F-4E33-BAEC-1A3EB9B6CC9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC9F2560-B09F-4E33-BAEC-1A3EB9B6CC9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC9F2560-B09F-4E33-BAEC-1A3EB9B6CC9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC03BBF7-110A-4E4F-B152-39E3906F2AD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC03BBF7-110A-4E4F-B152-39E3906F2AD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC03BBF7-110A-4E4F-B152-39E3906F2AD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC03BBF7-110A-4E4F-B152-39E3906F2AD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {98DDD9A8-3F18-4792-8570-C8E44733F92C}
+		SolutionGuid = {EDA65301-121E-4E1E-9F7E-43A40DE1F57E}
 	EndGlobalSection
 EndGlobal

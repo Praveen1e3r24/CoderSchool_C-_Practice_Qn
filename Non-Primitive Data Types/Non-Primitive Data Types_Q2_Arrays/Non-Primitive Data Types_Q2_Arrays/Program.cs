@@ -70,9 +70,6 @@
 
 
 
-
-
-
 //Part 7
 //Using the array of countries, find the index of a name in the array and print it out to the console.
 //Hint: You can use the IndexOf() method to find the index of a name in the array.

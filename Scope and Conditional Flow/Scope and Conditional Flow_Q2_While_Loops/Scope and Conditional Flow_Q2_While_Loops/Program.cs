@@ -143,6 +143,9 @@
 
 //Example(Uncomment each loop type to see the difference) 
 
+
+//While Loop//
+
 //int x = 1;
 //while (x < 1)
 //{
@@ -151,6 +154,8 @@
 //}
 
 
+
+//Do While Loop//
 
 //int x = 1;
 //do

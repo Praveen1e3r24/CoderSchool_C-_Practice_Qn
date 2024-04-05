@@ -38,39 +38,57 @@
 // Create a user-defined function to calculate the sum of individual digits of a given number.
 // Hint: Define a function named CalculateDigitSum() that takes an integer parameter, calculates the sum of its digits, and prints the result to the console.
 
-//Part 11
-// Create a recursive user-defined function to find the factorial of a given number.
-// Hint: Define a function named CalculateFactorial() that takes an integer parameter, calculates its factorial recursively, and prints the result to the console.
 
-//Part 12
-// Create a recursive user-defined function to calculate the Fibonacci number of a specific term.
-// Hint: Define a function named CalculateFibonacciTerm() that takes an integer parameter (term), calculates the Fibonacci number recursively, and prints the result to the console.
-
-
-// Part 13
+// Part 11
 // Test Named Parameters in C#.
 // Write a C# program that defines a method called "DisplayInfo" that takes two parameters: "name" and "age".
 // Use named parameters to call the "DisplayInfo" method with the parameter values "name"="John" and "age"=30.
 // Hint: Define the method "DisplayInfo" with parameters "name" and "age", then call it using named parameters.
 
-// Part 14
-// Test Ref Parameters in C#.
-// Write a C# program that defines a method called "Increment" that takes a ref parameter "num" and increments it by 1.
-// Call the "Increment" method with an integer variable initialized to 5.
-// Hint: Define the method "Increment" with a ref parameter, then call it with a variable passed by reference using the "ref" keyword.
-
-// Part 15
+// Part 12
 // Test Out Parameters in C#.
 // Write a C# program that defines a method called "GetSquareRoot" that calculates the square root of a number.
 // Use an out parameter to return the square root of a given number.
 // Hint: Define the method "GetSquareRoot" with an out parameter to store the result.
 
-// Part 16
+// Part 13
 // Test Default or Optional Parameters in C#.
 // Write a C# program that defines a method called "GreetUser" with two parameters: "name" and "greetingMessage".
 // Set the default value of "greetingMessage" to "Hello".
 // Call the "GreetUser" method with only the "name" parameter provided.
 // Hint: Define the method "GreetUser" with a default value for one of its parameters.
+
+
+
+
+
+
+
+/////////////////////////////////////End///////////////////////////////////////
+
+
+
+
+
+
+
+
+
+
+
+
+// Part 14
+// Test Ref Parameters in C#.
+// Write a C# program that defines a method called "Increment" that takes a ref parameter "num" and increments it by 1.
+// Call the "Increment" method with an integer variable initialized to 5.
+// Hint: Define the method "Increment" with a ref parameter, then call it with a variable passed by reference using the "ref" keyword./////////////////////////////////////////////////////////////////////////  maybe too complex
+
+
+
+
+
+
+
 
 // Part 17
 // Test Dynamic Parameters in C#.
@@ -89,3 +107,18 @@
 // Write a C# program that defines a method called "CalculateSum" that calculates the sum of a variable number of integers.
 // Call the "CalculateSum" method with different numbers of arguments and print the result.
 // Hint: Use the "params" keyword to specify a variable number of arguments for the "CalculateSum" method.////////////////////////////////////////////////////////////////////////  maybe too complex
+
+
+
+
+
+
+
+
+//Part 11
+// Create a recursive user-defined function to find the factorial of a given number.
+// Hint: Define a function named CalculateFactorial() that takes an integer parameter, calculates its factorial recursively, and prints the result to the console.////////////////////////////////////////////////////////////////////////  maybe too complex
+
+//Part 12
+// Create a recursive user-defined function to calculate the Fibonacci number of a specific term.
+// Hint: Define a function named CalculateFibonacciTerm() that takes an integer parameter (term), calculates the Fibonacci number recursively, and prints the result to the console./////////////////////////////////////////////////////////////////////////  maybe too complex

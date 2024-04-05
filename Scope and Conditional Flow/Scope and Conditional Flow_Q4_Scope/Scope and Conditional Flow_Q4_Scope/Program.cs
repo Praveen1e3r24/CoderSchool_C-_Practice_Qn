@@ -1,4 +1,11 @@
-﻿//Part 1
+﻿//Comment out part 2 and part 3 before running part 1.
+//Comment out part 1 and part 3 before running part 2.
+//Comment out part 1 and part 2 before running part 3.
+
+
+
+
+////////////////////Part 1////////////////////
 
 //There are scope realted errors in the code. Fix the scope related errors in the code.
 
@@ -42,7 +49,12 @@ Console.WriteLine(treasureChestGold); // This will result in a compilation error
 
 
 
-//Part 2
+
+
+
+
+
+//////////////////Part 2////////////////////
 
 
 // There are scope-related errors in the code. Fix the scope-related errors in the code.
@@ -89,7 +101,7 @@ Console.WriteLine("\nWith the evidence collected, you piece together the puzzle 
 
 
 
-//Part 3
+/////////////////Part 3////////////////////
 
 // There are scope-related errors in the code. Fix the scope-related errors in the code.
 
