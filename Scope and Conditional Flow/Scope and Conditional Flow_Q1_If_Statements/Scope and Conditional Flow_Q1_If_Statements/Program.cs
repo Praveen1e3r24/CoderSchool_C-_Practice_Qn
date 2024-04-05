@@ -88,3 +88,94 @@
 //Part 10
 // Create a program that prints the names of different fruits, but skips printing the name "banana".
 // Hint: Use a foreach loop to iterate through the list of fruits and an if statement with a continue statement to skip printing "banana".
+
+
+
+
+
+////////////// Extra Challenges //////////////
+
+/*
+Part 11
+
+ABC Company pays its sales agents on a commission basis. 
+Each agent is paid 10% commission for monthly sales above or equal to $10,000 and 5% commission for monthly sales below $10,000.
+
+Write a program to accept the monthly sales of a particular agent and based on the amount, determine and print out the commission earned.
+
+Example:
+Enter the monthly sales: 12000
+Commission earned: $1200.00
+
+*/
+
+
+/*
+Part 12
+
+Write a program that generates two integers between 0 and 100 inclusive and prompts the user to enter the sum of these 2 integers. The program reports if the answer is correct or wrong (program will also print the correct answer if the user's answer is wrong).
+
+Hint: You need to use the random module.
+
+Example:
+Enter the sum of 43 and 58: 100
+Correct!
+
+ */
+
+
+
+/*
+ Part 13
+
+The grade that you get for a module depends on your marks. The table below shows the grade for each range of marks.
+
+Marks   |   Grade   |   Comment
+---------------------------------
+>= 85   |     A+    |  Excellent!
+>= 80   |     A     |  Well done.
+>= 75   |     B+    |
+>= 70   |     B     |
+>= 65   |     C+    |
+>= 60   |     C     |
+>= 55   |     D+    |
+>= 50   |     D     |
+< 50    |     F     |  See me.
+
+Write a program that asks for a student’s marks, then displays the correct grade and the corresponding comment (if any).
+
+Example:
+Enter student's marks: 82
+Grade: A
+Comment: Well done.
+ 
+
+ 
+ */
+
+
+
+
+/*
+ Part 14
+
+ A guard in a computer game acts as follows:
+
+If sees_player == False, he will wait
+
+If sees_player == True:
+    - If dist_from_player <= 1, he will attack
+    - If 2 <= dist_from_player <= 4, he will advance
+    - If dist_from_player >= 5, he will wait
+
+Write a program that shows how the guard will act.
+
+Example:
+sees_player = True
+dist_from_player = 3
+
+The guard will advance.
+
+ 
+ 
+ */

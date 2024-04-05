@@ -31,6 +31,21 @@
 
 
 
+//Part 4
+//Write a C# Sharp program to display an alphabet pattern like Y with an asterisk.
+//Hint: Use nested loop
+//Expected Output:
+// *     *
+//  *   *
+//   * *
+//    *
+//    *
+//    *
+//    *
+
+
+
+
 /////////// For Each Loop ///////////
 
 //Use For Each Loops to solve the following problems.
