@@ -19,11 +19,8 @@ This repository contains practice exercises for the Coderschool C# beginners cou
 **7. Debugging and Defensive Programming:** Learn debugging techniques and defensive programming practices in C#.
 
 ## Getting Started
-
-To get started with the course materials, follow these steps:
-
-
-# Step 1: Download and Install Visual Studio Community
+For total beginner with no tools or accounts install, to get started with the course materials, follow these steps:
+# Step 1: Download and Install Visual Studio Community or Visual Studio Code (for Mac User)
 **1. Go to the Visual Studio website:** [Visual Studio Community](https://visualstudio.microsoft.com/vs/community/)  
 **2. Click on the "Download Visual Studio" button.**  
 **3. Run the installer and follow the on-screen instructions to install Visual Studio Community.**
@@ -43,10 +40,6 @@ To get started with the course materials, follow these steps:
 **3. Open Visual Studio Community and select "Clone a repository" from the start window.**  
 **4. Paste the repository URL and choose a local path to save the project.**  
 **5. Click "Clone" to download the project files to your computer.**
-
-
-
-
 
 
 ## Practice Instructions:
