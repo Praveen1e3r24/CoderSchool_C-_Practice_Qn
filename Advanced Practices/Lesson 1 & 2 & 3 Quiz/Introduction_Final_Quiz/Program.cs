@@ -3,9 +3,6 @@
 //To uncomment a part, select the part and press Ctrl + K + U
 //Press Ctrl + F5 to run the code.
 
-
-
-
 //////////////5 Syntax Example Questions://///////////
 
 
