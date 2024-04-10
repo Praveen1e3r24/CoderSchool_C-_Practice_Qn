@@ -1,5 +1,4 @@
-﻿/////////// 5 Basic Syntax Question///////////////////////
-
+﻿
 /*
 Question 1:
 BMI Calculation

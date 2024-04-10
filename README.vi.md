@@ -55,8 +55,9 @@ Làm theo hướng dẫn [Github](https://docs.github.com/en/repositories/creati
 - Khi chuyển sang một câu hỏi khác, hãy chú thích (Comment) đoạn code trước bằng cách sử dụng `/* ... */` hoặc `ctrl+k+c` để bỏ qua các dòng code này.
 - Sẽ có các bài nâng cao (Advanced Practices) phải hoàn thành sau Bài học 1, 2, 3 và một bài nâng cao (Advanced Practices) khác sau Bài học 4, 5, 6.
 - Hầu hết các câu hỏi có gợi ý và dữ liệu thử nghiệm để bạn xem kết quả đầu ra trong trường hợp bạn cần một số trợ giúp.
-- Để mở chương trình và chạy mã, nhấp đúp vào tệp giải pháp trong mỗi thư mục câu hỏi và không phải là tệp `Program.cs`.
-- Cũng có một bài thực hành về xử lý tệp trong thư mục bài kiểm tra là tùy chọn.
+- Visual Studio Code: Để mở chương trình và chạy mã, dùng `ls` và `cd` trong terminal tương ứng để mở đúng vị trí thư mục đang làm việc có chứa `Program.cs` và dùng `dotnet run`.
+- Visual Studio: Để mở chương trình và chạy mã, nhấp đúp vào tệp giải pháp (.sln) trong mỗi thư mục câu hỏi và không phải là tệp `Program.cs`.
+- Ngoài ra còn có các bài tập tùy chọn về các chủ đề mở rộng hơn của C# (Optional).
 
 ---
 

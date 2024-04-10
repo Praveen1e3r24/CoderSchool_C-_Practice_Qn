@@ -53,7 +53,8 @@ For total beginner with no tools or accounts install, to get started with the co
 - When moving onto a different question, comment it out using `/* ... */` or ctrl+k+c and run it.
 - There are quizzes to be completed after Lesson 1, 2, 3, and another one after Lessons 4, 5, 6.
 - Most of the questions have hints and test data for you to view the output in case you need some help.
-- To open the program and run the code, double-click on the solution file in each question folder and not the `Program.cs` file.
+- Visual Studio: To open the program and run the code,double-click on the solution file (.sln) in each question folder and not the `Program.cs` file.
+- Visual Studio Code: Use `ls` and `cd` to go to the current working directory with the `Program.cs` and use `dotnet run`s
 - There is also a practice on file manipulation in the quizzes folder which is optional.
 
 ---
