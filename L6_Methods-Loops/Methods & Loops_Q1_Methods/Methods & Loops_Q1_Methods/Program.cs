@@ -1,6 +1,4 @@
-﻿Certainly! Here are the questions formatted as per your request:
-
-//---------------------------------------------------------------------
+﻿//---------------------------------------------------------------------
 // Part 1: Displaying a Welcome Message
 // Create a user-defined function to display a welcome message.
 // Hint: Define a function named DisplayWelcomeMessage() that prints the welcome message to the console.
